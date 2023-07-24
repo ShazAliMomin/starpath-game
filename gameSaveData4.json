@@ -1,0 +1,22 @@
+{
+    "pistolLevel": 1,
+    "smgLevel": 1,
+    "shotgunLevel": 1,
+    "dashLevel": 1,
+    "playerLevel": 1,
+    "playerShootMode": 1,
+    "playerPistolAltFire": false,
+    "playerSMGAltFire": false,
+    "playerShotgunAltFire": false,
+    "playerHealth": 15.0,
+    "playerMaxHealth": 15,
+    "playerXP": 0.0,
+    "playerMaxXP": 100.0,
+    "aoeLevel": 1,
+    "turretLeve": 1,
+    "orbsLevel": 1,
+    "upgradePointsAvailable": 0,
+    "freya": false,
+    "norman": false,
+    "zeke": false
+}
